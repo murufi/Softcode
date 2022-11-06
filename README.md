@@ -21,7 +21,7 @@
 - DEV++
 - CodeBlocks
 
-## Languages and Rate:
+## 💞️ Languages and Rate:
  <details open>
 <summary>My top languages</summary>
 
