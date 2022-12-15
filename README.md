@@ -3,8 +3,8 @@
 </picture>
 
 ##  ABOUT ME:
-- 👋  <b>Hi, I’m AhmadRufai </b> a developer from Nigeria who develops robust code for businesses,
-     Studet of Software Engineering in Nigerian Army University Biu (NAUB),
+- 👋  <b>Hey, I’m AhmadRufai </b> a developer from Nigeria who develops robust code for businesses,
+     Student of Software Engineering in Nigerian Army University Biu (NAUB),
      proficient in HTML, CSS, JavaScript, JQuery for FrontEnd and MySql for BackEnd in addition Boostrap and Ajax.
      
      
