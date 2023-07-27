@@ -3,7 +3,7 @@
 </picture>
 
 ##  ABOUT ME
-<p style="text-align: justify; color:red;"> 👋 "<b>Hello, I am  Ahmad Rufai,</b> a skilled developer based in Nigeria. I specialize in crafting robust and efficient code solutions for businesses. Currently pursuing a degree in Software Engineering at Nigerian Army University Biu (NAUB), I have honed my expertise in various technologies, including HTML, CSS, JavaScript, and JQuery for FrontEnd development. Additionally, I am proficient in utilizing MySql for BackEnd tasks, and I have hands-on experience with Bootstrap and Ajax for enhancing website functionality. I am passionate about creating seamless user experiences and constantly strive to stay updated with the latest trends in the industry to deliver high-quality results." </p>
+<p style="text-align: justify; font-size:14; font-family:PT Serif;"> 👋 "<b>Hello, I am  Ahmad Rufai,</b> a skilled developer based in Nigeria. I specialize in crafting robust and efficient code solutions for businesses. Currently pursuing a degree in Software Engineering at Nigerian Army University Biu (NAUB), I have honed my expertise in various technologies, including HTML, CSS, JavaScript, and JQuery for FrontEnd development. Additionally, I am proficient in utilizing MySql for BackEnd tasks, and I have hands-on experience with Bootstrap and Ajax for enhancing website functionality. I am passionate about creating seamless user experiences and constantly strive to stay updated with the latest trends in the industry to deliver high-quality results." </p>
 
      
      
